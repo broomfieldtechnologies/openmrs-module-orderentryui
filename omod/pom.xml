@@ -51,6 +51,7 @@
         <dependency>
             <groupId>org.openmrs.module</groupId>
             <artifactId>webservices.rest-omod</artifactId>
+            <version>${webservicesRestModuleVersion}</version>
         </dependency>
     </dependencies>
 
